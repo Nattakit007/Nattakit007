@@ -15,8 +15,6 @@ Physics & IoT Engineering Student @ KMITL
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=default" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" height="150"/>
 
 </div>
 
@@ -73,7 +71,7 @@ Physics & IoT Engineering Student @ KMITL
 <div align="center">
 
 📫 **Contact**  
-GitHub: `@yourusername`  
+GitHub: `@Nattakit007`  
 KMITL, Thailand 🇹🇭
 
 <br>
