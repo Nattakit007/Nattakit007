@@ -1,4 +1,4 @@
-# Hi, I'm Nattakit Preesak (ณัฐกิตติ์ ปรีศักดิ์)
+# Hi, I'm Nattakit Preesak
 
 🎓 Physics & IoT Engineering student @ KMITL  
 🔬 National Science Project Competition participant  
