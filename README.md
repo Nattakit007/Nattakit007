@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Nattakit Preesak (ณัฐกิตติ์ ปรีศักดิ์)
 
-<!--
-**Nattakit007/Nattakit007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics & IoT Engineering student @ KMITL  
+🔬 National Science Project Competition participant  
+💡 Interested in Embedded Systems, IoT, and Applied Physics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Engineering student with hands-on experience in **embedded systems and electronics**, strong fundamentals in **physics**, and interest in building **reliable real-world systems**. Comfortable learning quickly and working across hardware and software.
+
+---
+
+## Skills
+
+**Embedded & IoT**
+- ESP32 / ESP32-C3
+- Arduino
+- Sensor integration
+- Power consumption analysis
+
+**Programming**
+- C / C++ (embedded)
+- Python (basic)
+- JavaScript (basic)
+
+**Electronics**
+- Circuit analysis
+- Analog & digital fundamentals
+- Soldering & prototyping
+
+**Tools**
+- Linux
+- Shapr3D, TinkerCAD
+- 3D printing, laser cutting
+
+---
+
+## Experience
+- National-level science project (invention category)
+- ESP32-based monitoring and smart device projects
+- Technical report writing & experimentation
+
+---
+
+## Currently Learning
+- Embedded C/C++ (production style)
+- ESP32 system design
+- Low-power IoT systems
+
+---
+
+## Contact
+- GitHub: @yourusername
+- KMITL, Thailand
+
