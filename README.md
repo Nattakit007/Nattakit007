@@ -1,81 +1,109 @@
-<h1 align="center">
-Hi 👋
-</h1>
+<h1 align="center">Nattakit</h1>
 
-<h3 align="center">
-Physics & IoT Engineering Student @ KMITL
-</h3>
+<h3 align="center">IoT Engineering & Industrial Physics Student • Embedded Systems • LoRaWAN • Maker</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=IoT+%26+Embedded+Systems;LoRaWAN+%26+Wireless+Communication;Building+Things+with+ESP32+%26+STM32;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-ESP32-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/IoT-Systems-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Physics-Applied-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square"/>
-
-<br><br>
-
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nattakit007&label=Profile%20views&color=2F80ED&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Nattakit007?label=Followers&style=flat&color=2F80ED" alt="GitHub followers" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Physics & IoT Engineering student at **KMITL**
-- 🔬 National-level **Science Project Competition** participant
-- ⚡ Interested in **Embedded Systems, IoT, and low-level engineering**
-- 🛠️ Hands-on with both **hardware and firmware**
-- 🚀 Actively building projects & looking for **engineering internships**
+### About Me
+
+- Studying Industrial Physics and IoT Engineering at KMITL
+- Currently working with IoT, LoRaWAN, embedded systems, and sensor networks
+- Building projects with ESP32, STM32, LoRa/LoRaWAN, MQTT, and Node-RED
+- Learning more about embedded systems, wireless communication, networking, and backend development
+- Interested in turning ideas into working hardware — from PCBs and sensors to complete IoT systems
+- Background in physics, electronics, programming, and applied science projects
+- Ask me about ESP32, STM32, LoRaWAN, MQTT, Arduino, C/C++, Python, or IoT in general
 
 ---
 
-## 🧠 Technical Focus
-
-**Embedded & IoT**
-- ESP32 / ESP32-C3  
-- Arduino  
-- Sensor integration  
-- Power consumption analysis  
+### Tech Stack
 
 **Programming**
-- C / C++ (embedded)
-- Python (basic)
-- JavaScript (basic)
 
-**Electronics**
-- Circuit analysis
-- Analog & digital fundamentals
-- Soldering & prototyping
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
 
-**Tools**
-- Linux
-- Shapr3D, TinkerCAD
-- 3D printing & laser cutting
+**Embedded & IoT**
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+</p>
 
-## 📌 Experience
-- National science project (invention category)
-- ESP32-based monitoring & smart systems
-- Technical experimentation & report writing
+ESP32 • STM32 • LoRaWAN • MQTT • Node-RED • PlatformIO • Arduino
 
----
+**Software & Tools**
 
-## 🎯 Currently Learning
-- Production-style embedded C/C++
-- ESP32 system architecture
-- Low-power IoT design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,nodejs" />
+</p>
 
 ---
 
-<div align="center">
+### Current Projects
 
-📫 **Contact**  
-GitHub: `@Nattakit007`  
-KMITL, Thailand 🇹🇭
+**LoRaWAN Water Monitoring System**
 
-<br>
+A wireless water-level monitoring system built around ESP32 and LoRaWAN, designed for remote sensor deployment.
 
-<i>"Build the system. Understand the physics. Then write the code."</i>
+Stack: `ESP32` • `LoRaWAN` • `JSN-SR04T` • `MQTT` • `HiveMQ` • `Node-RED` • `Google Sheets`
 
-</div>
+**Smart Farm / IoT Monitoring**
+
+Exploring distributed IoT systems using LoRa nodes, environmental sensors, MQTT, and dashboards for agricultural applications.
+
+**Embedded Systems**
+
+Experimenting with STM32, FreeRTOS, sensors, motor control, and digital systems.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nattakit007&show_icons=true&theme=tokyonight&hide_border=true" alt="Nattakit007's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattakit007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nattakit007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattakit007&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://github.com/Nattakit007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Build it. Break it. Understand it. Build it better.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=footer" />
+</p>
