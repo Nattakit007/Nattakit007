@@ -63,7 +63,7 @@
 
 ### Current Project
 
-**Closed-Loop PID Controller — STM32**
+**[Closed-Loop PID Controller](https://github.com/Nattakit007/Close-Loop)**
 
 Currently building a closed-loop control system on STM32, working through:
 
@@ -78,7 +78,7 @@ The goal is not just to make the code work, but to understand what is actually h
 
 ---
 
-### LoRaWAN
+**[LoRaWAN IoT System](https://github.com/Nattakit007/LoRa)**
 
 Working with **LoRaWAN and low-power wireless IoT systems**, including sensor nodes, wireless communication, and data pipelines.
 
